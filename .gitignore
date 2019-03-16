@@ -1,4 +1,7 @@
+<<<<<<< HEAD
+=======
 HELP.md
+>>>>>>> b13a4f014de26dc641a94fbaa7963c61a928050c
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 
