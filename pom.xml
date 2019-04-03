@@ -15,7 +15,7 @@
     <modules>
         <module>zk-starter</module>
         <module>zk-curator-demo</module>
-        <!--<module>../imooc-dubbo-zklock</module>-->
+        <module>imooc-dubbo-zklock</module>
     </modules>
 
     <groupId>com.mlh</groupId>
